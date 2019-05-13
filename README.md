@@ -34,3 +34,5 @@ We will see that this approach brings no improvement over results provided by al
 In part 2 we will predict ratings via a machine learning algorithm called random forest. In this case our training data 
 is ratings dataset. Using datasets on films and users we extend ratings  data horizontally. After the tuning of parameters
 we improve the results coming from first part substantially. 
+
+Jupyter notebook files can be read in https://nbviewer.jupyter.org if there is any need. 
